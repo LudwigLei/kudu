@@ -171,7 +171,6 @@
     <Content Include="Scripts\semver.js">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <None Include="Scripts\ConsoleWorker\Web.config.template">
     <Content Include="Scripts\ConsoleWorker\Web.config.template">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
